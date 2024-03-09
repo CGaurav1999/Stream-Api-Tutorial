@@ -1,0 +1,15 @@
+Non-Terminal Methods
+    map()
+    flatMap()
+    filter()
+    distinct()
+    limit()
+
+Terminal Methods
+collect()
+count()
+min()
+max()
+forEach()
+reduce()
+toArray()
